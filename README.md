@@ -1,5 +1,5 @@
 # Discord-Crash-Link-Bug
-Discord Crash Link Bug i Found
+
 Theres Actually A bug in discord Protocol Which Crashes Desktop Users When u Click it 
 
 # Link
