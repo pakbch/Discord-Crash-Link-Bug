@@ -4,6 +4,7 @@ Theres Actually A bug in discord Protocol Which Crashes Desktop Users When u Cli
 
 # Link
 <<discord://-/apps>>
+
 <<discord://-/settings/linux>> - Crashes Windows Users
 
 # Preview
